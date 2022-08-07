@@ -1,0 +1,21 @@
+.modal-title{
+    font-family: Georgia, serif;
+    margin-bottom: 0;
+    line-height: var(--bs-modal-title-line-height);
+}
+
+.modal-body{
+    font-family: cursive, monospace;
+    text-align: justify;
+}
+
+.modal-content {
+    color: var(--bs-modal-color);
+    pointer-events: auto;
+    font-family: cursive, monospace;
+  }
+
+.back{
+    display: 'block';
+    background-color: 'rgba(0,0,0,0.8)';
+}
